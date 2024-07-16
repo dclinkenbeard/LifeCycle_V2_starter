@@ -1,16 +1,16 @@
 <resources>
-    <string name="app_name">LifeCycleIntent</string>
+  <string name="app_name">LifeCycleIntent</string>
 
-    <!--  copy the values below -->
+  <!--  copy the values below -->
 
-    <string name="message1">This is a message!</string>
-    <string name="message2">This is another message!</string>
-    <string name="button1"><![CDATA[Next –>]]></string>
-    <string name="true_button">True</string>
-    <string name="false_button">False</string>
+  <string name="message1">This is a message!</string>
+  <string name="message2">This is another message!</string>
+  <string name="button1"><![CDATA[Next –>]]></string>
+  <string name="true_button">True</string>
+  <string name="false_button">False</string>
 
-    <string name="true_message">True was passed in. It will be swapped...</string>
-    <string name="false_message">False was passed in. \'Another message\' will be displayed on the other side.</string>
+  <string name="true_message">True was passed in. It will be swapped...</string>
+  <string name="false_message">False was passed in. \'Another message\' will be displayed on the other side.</string>
 
-    <!--Copy the values above -->
+  <!--Copy the values above -->
 </resources>
