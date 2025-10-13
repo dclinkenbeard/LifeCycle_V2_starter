@@ -42,10 +42,10 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 if (messageOne){
-                    mTextView.setText(R.string.message2);
+                    mTextView.setText(getString(R.string.message2, (messageOne+"")));
                     messageOne = false;
                 } else {
-                    mTextView.setText(R.string.message1);
+                    mTextView.setText(getString(R.string.message1, (messageOne+"")));
                     messageOne = true;
                 }
             }

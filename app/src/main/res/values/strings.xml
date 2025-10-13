@@ -3,8 +3,8 @@
 
     <!--  copy the values below -->
 
-    <string name="message1">This is a message!</string>
-    <string name="message2">This is another message!</string>
+    <string name="message1">This is a message! (%1$s)</string>
+    <string name="message2">This is another message! (%1$s)</string>
     <string name="button1"><![CDATA[Next –>]]></string>
     <string name="true_button">True</string>
     <string name="false_button">False</string>
