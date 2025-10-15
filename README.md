@@ -42,6 +42,3 @@
 13. Use the intent factory from MainActivty to switch from child activity to MainActivity
 14. update MainActivity to use the extra.
 
-# Small fix
-https://gist.github.com/danielcshn/7aa57155d766d46c043fde015f054d40
-
