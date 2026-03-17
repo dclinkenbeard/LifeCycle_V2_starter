@@ -1,5 +1,5 @@
 # Outline
-# MainActictivity.java
+# MainActivity.java
 
 1. Add saved instance state code from slides (line 38)
 2. add private static final String BUTTON_STATE = "BUTTON_STATE_KEY"; on line 21 (replace the TODO)
